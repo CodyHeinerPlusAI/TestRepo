@@ -10,6 +10,8 @@ int Factorial(int n) {
 }
 
 int main() {
+  std::cout << "Testing a new feature..." << std::endl;
+
   std::cout << "3! = " << Factorial(3) << std::endl;
   
   return 0;
